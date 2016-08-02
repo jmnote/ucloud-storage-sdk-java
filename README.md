@@ -22,7 +22,7 @@ Add the dependency
 
 # gradle
 Add it in your root build.gradle at the end of repositories
-```json
+```gradle
 	allprojects {
 		repositories {
 			maven { url "https://jitpack.io" }
@@ -30,7 +30,7 @@ Add it in your root build.gradle at the end of repositories
 	}
 ```
 Add the dependency
-```json
+```gradle
 	dependencies {
 		compile 'com.github.jmnote:ucloud-storage-sdk:0.0.2'
 	}
