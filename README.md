@@ -1,5 +1,5 @@
-ucloud storage SDK
-==================
+ucloud storage SDK for Java
+===========================
 
 # maven
 Add the JitPack repository to your build file (pom.xml)
